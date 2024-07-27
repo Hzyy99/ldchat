@@ -21,4 +21,4 @@
 7、采用RocketMQ进行消息广播，WebSocket服务过滤连接消息，实现跨进程的消息推送。
 
 8、为了避免深翻页和频繁变动问题。引入游标翻页机制，简化游标翻页实现。
-![image](https://github.com/Hzyy99/ldchat/blob/ldchat/84435b0196fbce0e6212f436f4007e9.jpg)
+![image](https://github.com/Hzyy99/ldchat/blob/ldchat/ldchat.jpg)
